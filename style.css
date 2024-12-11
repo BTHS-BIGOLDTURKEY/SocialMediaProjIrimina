@@ -1,6 +1,30 @@
 div{
+    font-family: Arial, Helvetica, sans-serif;
 }
-#main{
+body{
+    background-color: #9ee3ff;
+}
+#titles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#imgs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#bodies{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lesser {
+    max-width: 150px;
+    text-align: center;
+}
+h4{
+
 }
 img{
 
